@@ -1,4 +1,4 @@
-### Python
+### Some of my first Python scripts
 #### Article name Publication for interns
 
 Scripts used in article 'Using multiple indexes to asses climatic droughts and floods. 
